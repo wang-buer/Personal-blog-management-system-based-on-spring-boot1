@@ -6,12 +6,6 @@
 
  ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
-## 获取方式
-
-扫描下方，回复关键词  ：**博客1** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于springboot的个人博客管理系统实现了个人博客的功能，包括文章发布、文章管理、标签管理、分类管理、个人资料修改、附件图片上传、友情链接管理，前端查看博客详情等
