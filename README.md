@@ -2,6 +2,12 @@
 
 ## 获取方式
 
+下方扫一扫关注后，后台回复关键词：**博客**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
+## 获取方式
+
 扫描下方，回复关键词  ：**博客1** ，获取完整版源码
 
 ![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
