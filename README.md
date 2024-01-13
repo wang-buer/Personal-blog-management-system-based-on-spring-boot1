@@ -1,4 +1,4 @@
-# 基于springboot的个人博客管理系统
+# 基于springboot的个人博客管理系统1
 
 ## 获取方式
 
@@ -31,41 +31,33 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312158733.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207312158733.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312158624.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202207312158624.jpg)
 
 ### 4.2 前端模块
 
-![前端-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312158176.jpg)
+![前端-首页](https://www.codeshop.fun/Typora-Images/202207312158176.jpg)
 
-![前端-博客详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312158594.jpg)
+![前端-博客详情](https://www.codeshop.fun/Typora-Images/202207312158594.jpg)
 
 ### 4.4 后端模块
 
-![后台-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312158301.jpg)
+![后台-首页](https://www.codeshop.fun/Typora-Images/202207312158301.jpg)
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312158648.jpeg)
+![](https://www.codeshop.fun/Typora-Images/202207312158648.jpeg)
 
-![后台-发布文章](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312159540.jpg)
+![后台-发布文章](https://www.codeshop.fun/Typora-Images/202207312159540.jpg)
 
-![后台-分类管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312159319.jpg)
+![后台-分类管理](https://www.codeshop.fun/Typora-Images/202207312159319.jpg)
 
-![后台-标签管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312159626.jpg)
+![后台-标签管理](https://www.codeshop.fun/Typora-Images/202207312159626.jpg)
 
-![后台-上传图片](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312200766.jpg)
+![后台-上传图片](https://www.codeshop.fun/Typora-Images/202207312200766.jpg)
 
-![后台-菜单主题修改](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312159413.jpg)
+![后台-菜单主题修改](https://www.codeshop.fun/Typora-Images/202207312159413.jpg)
 
-![后台-个人资料修改](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312159855.jpg)
+![后台-个人资料修改](https://www.codeshop.fun/Typora-Images/202207312159855.jpg)
 
-![后台-友情链接管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312159528.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**博客1** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![后台-友情链接管理](https://www.codeshop.fun/Typora-Images/202207312159528.jpg)
 
